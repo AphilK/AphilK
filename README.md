@@ -1,12 +1,12 @@
-# 👋 Hello, I'm AphilK!
+# 👋 Hello, I'm João Pedro Silva!
 
-Welcome to my GitHub! I'm an enthusiastic and motivated entry-level developer with a growing passion for software engineering and technology. My journey in programming is fueled by curiosity, self-driven learning, and a desire to build impactful solutions.
+Welcome to my GitHub! I'm an enthusiastic and motivated entry-level developer with a growing passion for back-end and technology. My journey in programming is fueled by curiosity, self-driven learning, and a desire to build impactful solutions.
 
 ---
 
 ## 🌱 Currently Learning
 
-- **Java**: Expanding my object-oriented programming skills and exploring the Java ecosystem.
+- **Java and Spring Framework**: Expanding my object-oriented programming skills and exploring the Java ecosystem.
 
 ---
 
