@@ -1,45 +1,39 @@
-# 👋 Hello, I'm João Pedro Silva!
+# Hi there, I'm João 👋
 
-Welcome to my GitHub! I'm an enthusiastic and motivated entry-level developer with a growing passion for back-end and technology. My journey in programming is fueled by curiosity, self-driven learning, and a desire to build impactful solutions.
+### 🚀 Backend Developer | Aspiring Data Engineer
 
----
+I am an engineering student with a rigorous analytical background, transitioning into Data Engineering. I specialize in building robust backend architectures, scalable data ingestion pipelines, and reproducible infrastructure. 
 
-## 🌱 Currently Learning
-
-- **Java and Spring Framework**: Expanding my object-oriented programming skills and exploring the Java ecosystem.
+Currently, I am engineering an industrial **Digital Shadow**, where I design and maintain data pipelines that process over **288,000 industrial data points daily** with sub-second latency. My core focus is on transforming complex physical and mathematical models into clean, efficient software solutions.
 
 ---
 
-## 🐍 Python Fundamentals
+### 🛠️ Tech Stack & Tools
 
-- Completed a solid **Python Fundamentals** formation with [DIO (Digital Innovation One)](https://www.dio.me/), covering essential concepts and practical programming exercises.
-
----
-
-## 💎 Self-Taught Developer
-
-- **Ruby on Rails**: Learned the fundamentals of Ruby and Rails, building web apps and understanding MVC architecture on my own.
-- **C++**: Self-studied C++ to grasp strong typing, memory management, and foundational computer science concepts.
+* **Backend & Data Processing:** Python (Advanced), FastAPI, Django, Flask.
+* **Database & Querying:** Relational Databases, SQL.
+* **Infrastructure & DevOps:** Docker, Linux, Git/GitHub, RESTful APIs.
+* **Frontend Ecosystem:** JavaScript, Vue.js *(Active learning for full-stack integration)*.
 
 ---
 
-## 🚀 What I'm Looking For
-
-I'm seeking entry-level opportunities where I can:
-
-- Grow as a developer and learn from experienced teams
-- Apply my skills in Java, Python, Ruby, and C++
-- Contribute to meaningful projects and make a real-world impact
+### 📈 High-Impact Metrics (Current Project)
+* Engineered an end-to-end data ingestion API using **FastAPI**, handling **10Hz** data streams continuously.
+* Containerized the entire laboratory ecosystem using **Docker**, eliminating environment setup bottlenecks and standardizing deployments.
+* Applied advanced mathematical modeling (Calculus/Physics) to structure scalable data architectures.
 
 ---
 
-## 🤝 Let's Connect!
-
-- 📫 Reach me on [GitHub](https://github.com/AphilK)
-- 💼 Open to junior/entry-level positions, internships, and collaborative projects
-
----
-
-Thank you for visiting my profile! I'm excited to continue learning and to start my professional journey in software development.
+### 🌱 Currently Learning
+To further align with modern Data Engineering and full-stack requirements, I am actively studying:
+1. **Apache Airflow** & **ETL/ELT Pipelines** (Data Orchestration).
+2. **Advanced SQL** (Window Functions, CTEs).
+3. **Vue.js / Node.js** (Frontend consumption of APIs).
 
 ---
+
+### 📫 Let's Connect!
+Looking for remote internship opportunities where I can deliver value through clean code while expanding my skills.
+
+* **LinkedIn:** https://www.linkedin.com/in/joao-pedro-n
+* **Email:** joaopsilva@aluno.ufrb.edu.br
