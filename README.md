@@ -62,14 +62,6 @@ At CEPEDI I designed the **Digital Shadow** architecture — a Python API (REST 
 
 ---
 
-## Selected Work
-
-**FastAPI + MQTT + MySQL** — Containerized service built with Docker Compose (FastAPI, MySQL, Eclipse Mosquitto) on Linux, exposing a REST interface over message-broker input.
-
-**ETL Pipeline: Kaggle → Airflow → BigQuery** — Batch pipeline orchestrated with Apache Airflow, converting raw data to Parquet and loading it into Google BigQuery.
-
----
-
 ## Publications & Recognition
 
 - **"Sustainable manufacturing digital shadows: integrating VR, AI, real-time data"** — *International Journal of Simulation Modelling*, [DOI 10.2507/IJSIMM25-3-766](https://doi.org/10.2507/IJSIMM25-3-766), 2026. Co-author, peer-reviewed.
