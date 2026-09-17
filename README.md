@@ -64,7 +64,7 @@ At CEPEDI I designed the **Digital Shadow** architecture — a Python API (REST 
 
 ## Publications & Recognition
 
-- **"Sustainable manufacturing digital shadows: integrating VR, AI, real-time data"** — *International Journal of Simulation Modelling*, [DOI 10.2507/IJSIMM25-3-766](https://doi.org/10.2507/IJSIMM25-3-766), 2026. Co-author, peer-reviewed.
+- **"Sustainable manufacturing digital shadows: integrating VR, AI, real-time data"** — *International Journal of Simulation Modelling*, [DOI 10.2507/IJSIMM25-3-766](https://doi.org/10.2507/IJSIMM25-3-766), 2026. Main author, peer-reviewed.
 - **National software intellectual property registration** — "Digital Shadow" toolbox.
 
 ---
